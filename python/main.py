@@ -47,8 +47,8 @@ current_rotation = 1
 
 
 # account credentials
-USERNAME = "eva.raspberrypi@gmail.com"
-PASSWORD = "Supereva33"
+USERNAME = "Your Email Adress here"
+PASSWORD = "Password to your email adress"
 
 #variable that stores to current phrase displayed on screen.
 currentPhrase = ""
