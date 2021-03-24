@@ -14,6 +14,11 @@ It can also display images that were previously stored on the Raspberry Pi if it
 
 
 ## The physical device:
+
+Top view:
+<img width="1631" alt="Screenshot 2021-03-24 at 17 27 57" src="https://user-images.githubusercontent.com/72973649/112346481-4725b980-8cc6-11eb-904a-4370b6802776.png">
+
+Side view:
 <img width="1074" alt="Screenshot 2021-03-24 at 17 26 48" src="https://user-images.githubusercontent.com/72973649/112346302-1e9dbf80-8cc6-11eb-9799-ecad90f4b2f9.png">
 
 
