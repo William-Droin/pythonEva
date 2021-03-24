@@ -132,25 +132,8 @@ def displayPhraseOnScreen(newPhrase,rotation):
     frame_red = [0xFF] * (epd.height * epd.width / 8)
     
     
-    if newPhrase == "canard":
-        frame_black = epd.get_frame_buffer(Image.open('canard.png'))
-        epd.display_frame(frame_black, frame_red)
-        
-    elif newPhrase == "canardcoeur":
-        frame_red = epd.get_frame_buffer(Image.open('canardCoeur.png'))
-        frame_black = epd.get_frame_buffer(Image.open('canard.png'))
-        epd.display_frame(frame_black, frame_red)
-        
-    elif newPhrase == "coeursimple":
-        frame_red = epd.get_frame_buffer(Image.open('coeursimple.png'))
-        epd.display_frame(frame_black, frame_red)
-        
-    elif newPhrase == "campervan":
-        frame_red = epd.get_frame_buffer(Image.open('campervan.png'))
-        epd.display_frame(frame_black, frame_red)
-    
-    elif newPhrase == "planetravel":
-        frame_black = epd.get_frame_buffer(Image.open('planetravel.png'))
+    if newPhrase == "nameOfImage":
+        frame_black = epd.get_frame_buffer(Image.open('nameOfImage.png'))
         epd.display_frame(frame_black, frame_red)
     
 
