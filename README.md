@@ -10,5 +10,7 @@ It can display in the text in:
 
 It takes input from the messages in the mail if it sees a special flag (example: "Text:RED", will force the text to be displayed only red).
 
+It can also display images that were previously stored on the Raspberry Pi if it has the appropriate flag and name for the image
+
 
 ## The physical device:
