@@ -8,7 +8,7 @@ It can display in the text in:
 2. Red
 3. Red with black shadow
 
-It takes input from the messages in the mail if it sees a special flag (exmaple: "Text:RED", will force the text to be displayed only red).
+It takes input from the messages in the mail if it sees a special flag (example: "Text:RED", will force the text to be displayed only red).
 
 
 ## The physical device:
