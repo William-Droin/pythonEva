@@ -1,3 +1,7 @@
+# Description
+
+RaspberryPi with an E-ink display that can receive and display short messages sent through email
+
 # E-Ink messaging
 
 This small device is composed of a raspberry Pi and a E-ink display. 
